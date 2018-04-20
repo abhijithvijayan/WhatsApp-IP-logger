@@ -34,11 +34,12 @@ and wait for people to click it which then will generate the link preview
 WhatsApp Screenshot of Link Preview
 ![gen](.assets/gen.png?raw=true "gen")
 
-Server log for captured IP.
+Server log for captured IP
+
 ![iplist](.assets/iplist.jpeg?raw=true "iplist")
 
 Website on Browser
 ![site](.assets/site.png?raw=true "site")
 
 - WhatsApp is not planning on fixing this bug any time soon
-
+- To avoid such instances, use a trusted VPN service always
