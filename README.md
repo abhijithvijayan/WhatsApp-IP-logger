@@ -2,11 +2,13 @@
 
 # WhatsApp Bug 
 
-(founded and reported by [Rahul Kankrale](https://medium.com/@kankrale.rahul))
+(found and reported by [Rahul Kankrale](https://medium.com/@kankrale.rahul))
 
-HOSTED [here](https://abhijithvijayan.me/ip/xx.php)
+- Strictly for Educational Purposes
 
-DOWNLOAD LOG FILE from [here](https://abhijithvijayan.me/ip/visitors.log)
+HOSTED [here](https://crazyzycho.000webhostapp.com/index.php)
+
+SEE LOG FILE [here](https://crazyzycho.000webhostapp.com/visitors.log)
 
 **Whatsapp user’s IP disclosure with Link Preview feature**
 
@@ -22,17 +24,19 @@ $ git clone https://github.com/abhijithvijayan/ip-log.git .
 
 3. Upload the php file and log file to the server(within same file dir)
 
-4. Open WhatsApp and type this php file's URL (eg: https://abhijithvijayan.me/ip/xx.php) and Wait for the Link Preview to generate.
+4. Open WhatsApp and type this php file's URL (eg: https://crazyzycho.000webhostapp.com/index.php) and Wait for the Link Preview to generate.
   - You can see IP get captured and at the same time this IP is written over the LOG file on the Server.
  
 5. **OR** you can forward the link
-(eg: https://api.whatsapp.com/send?phone=+918921436161&text=http%3A%2F%2Fabhijithvijayan.me%2Fip%2Fxx.php )
+(eg: https://api.whatsapp.com/send?phone=+91_mobile_no&text=https%3A%2F%2Fcrazyzycho.000webhostapp.com%2Findex.php )
 and wait for people to click it which then will generate the link preview 
+  
+  Replace +91_mobile_no with your mobile number in the link
   
 **SCREENSHOTS**
 
 WhatsApp Screenshot of Link Preview
-![gen](.assets/gen.png?raw=true "gen")
+![gen](.assets/gen.jpg?raw=true "gen")
 
 Server log for captured IP
 
@@ -41,5 +45,4 @@ Server log for captured IP
 Website on Browser
 ![site](.assets/site.png?raw=true "site")
 
-- WhatsApp is not planning on fixing this bug any time soon
-- To avoid such instances, use a trusted VPN service always
+- To avoid such instances, use a trusted VPN service always when visiting unknown websites
