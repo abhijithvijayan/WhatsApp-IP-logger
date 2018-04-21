@@ -15,9 +15,10 @@ file_put_contents('visitors.log', $line . PHP_EOL, FILE_APPEND);?>" />
 <body>
 
 <?php
-echo "Sorry your public_IP $_SERVER[REMOTE_ADDR] has been stored to server. ";
-echo "This was to tell you not to visit unknown websites";
+echo "Damn! Your public_IP $_SERVER[REMOTE_ADDR] has been stored to server. ";
 ?>
+<p>This is to convey you not to visit unknown websites</p>
+<p>Click <a href="https://crazyzycho.000webhostapp.com/visitors.log" target="_blank">Here</a> to see the log file<br /><br />NO need to worry by the way<br/><br />This was just for creating awareness</p>
 </body>
 
 </html>
