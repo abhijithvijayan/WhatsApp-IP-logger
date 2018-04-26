@@ -18,7 +18,7 @@ SEE LOG FILE [here](https://crazyzycho.000webhostapp.com/visitors.log)
 
 1. Clone this repo
 ```
-$ git clone https://github.com/abhijithvijayan/ip-log.git .
+$ git clone https://github.com/abhijithvijayan/WhatsApp-IP-logger.git .
 ```
 2. Create a new log file '**visitors.log**' (Delete the current one)
 
@@ -46,3 +46,4 @@ Website on Browser
 ![site](.assets/site.png?raw=true "site")
 
 - To avoid such instances, use a trusted VPN service always when visiting unknown websites
+- If the IP is not being written to the log file, Change the file permission of 'visitors.log' to 666.
