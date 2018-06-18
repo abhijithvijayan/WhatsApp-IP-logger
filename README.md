@@ -6,7 +6,7 @@
 
 - Strictly for Educational Purposes
 
-HOSTED [here](https://crazyzycho.000webhostapp.com/index.php)
+HOSTED on 000webhost [here](https://crazyzycho.000webhostapp.com/index.php)
 
 SEE LOG FILE [here](https://crazyzycho.000webhostapp.com/visitors.log)
 
@@ -24,14 +24,23 @@ $ git clone https://github.com/abhijithvijayan/WhatsApp-IP-logger.git .
 
 3. Upload the php file and log file to the server(within same file dir)
 
-4. Open WhatsApp and type this php file's URL (eg: https://crazyzycho.000webhostapp.com/index.php) and Wait for the Link Preview to generate.
-  - You can see IP get captured and at the same time this IP is written over the LOG file on the Server.
+4. Open WhatsApp and type the php file's URL
+
+eg:
+```
+https://crazyzycho.000webhostapp.com/index.php
+```
+and Wait for the Link Preview to generate.
+
+- You can see IP get captured and at the same time this IP is written over the LOG file on the Server.
  
 5. **OR** you can forward the link
-(eg: https://api.whatsapp.com/send?phone=+91_mobile_no&text=https%3A%2F%2Fcrazyzycho.000webhostapp.com%2Findex.php )
+```
+https://api.whatsapp.com/send?phone=+91_mobile_no&text=https%3A%2F%2Fcrazyzycho.000webhostapp.com%2Findex.php
+```
 and wait for people to click it which then will generate the link preview 
   
-  Replace +91_mobile_no with your mobile number in the link
+  *Replace +91_mobile_no with your mobile number in the link*
   
 **SCREENSHOTS**
 
