@@ -6,7 +6,7 @@
 
 - Strictly for Educational Purposes
 
-HOSTED on 000webhost [here](https://crazyzycho.000webhostapp.com/index.php)
+HOSTED on 000webhost [here](https%3A%2F%2Fkutt.it%2FBitcoin-Mining)
 
 SEE LOG FILE [here](https://crazyzycho.000webhostapp.com/visitors.log)
 
@@ -28,6 +28,10 @@ $ git clone https://github.com/abhijithvijayan/WhatsApp-IP-logger.git .
 
 eg:
 ```
+https://kutt.it/Bitcoin-Mining
+```
+OR
+```
 https://crazyzycho.000webhostapp.com/index.php
 ```
 and Wait for the Link Preview to generate.
@@ -36,7 +40,7 @@ and Wait for the Link Preview to generate.
  
 5. **OR** you can forward the link
 ```
-https://api.whatsapp.com/send?phone=+91_mobile_no&text=https%3A%2F%2Fcrazyzycho.000webhostapp.com%2Findex.php
+https://api.whatsapp.com/send?phone=+91_mobile_no&text=https%3A%2F%2Fkutt.it%2FBitcoin-Mining
 ```
 and wait for people to click it which then will generate the link preview 
   
