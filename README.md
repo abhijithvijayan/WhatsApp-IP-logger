@@ -7,10 +7,11 @@
 - Strictly for Educational Purposes
 
 HOSTED on 000webhost [here](https://kutt.it/Bitcoin-Mining)
+
+SEE LIVE LOG FILE [here](https://crazyzycho.000webhostapp.com/visitors.log)
 ```
-https://kutt.it/Bitcoin-Mining
+https://crazyzycho.000webhostapp.com/visitors.log
 ```
-SEE LOG FILE [here](https://crazyzycho.000webhostapp.com/visitors.log)
 
 **Whatsapp user’s IP disclosure with Link Preview feature**
 
