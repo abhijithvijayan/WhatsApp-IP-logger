@@ -4,7 +4,7 @@
 
 (found and reported by [Rahul Kankrale](https://medium.com/@kankrale.rahul))
 
-- Strictly for Educational Purposes
+- I personally won't use this information in any ways possible. This is strictly for Educational Purposes only.
 
 HOSTED on 000webhost [here](https://kutt.it/Bitcoin-Mining)
 
